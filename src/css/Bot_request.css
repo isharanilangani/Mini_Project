@@ -1,0 +1,16 @@
+.bars{
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+}
+
+.fullpage{
+    display: flex;
+    flex-direction: row;
+}
+
+.botrequestbox{
+    border-radius: 81px 0px 0px 81px;
+    background: #495658;  
+}
+

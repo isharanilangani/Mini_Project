@@ -1,0 +1,159 @@
+.Sidebarstyle{
+    width: 255px;
+    height: 982px;
+    flex-shrink: 0;
+    background-color: #363740;
+    display: flex;
+    flex-direction: column;
+}
+
+.admin{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 47px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    margin-top: 36px;
+    margin-left: 46px;
+    width: 163px;
+    height: 71px;
+}
+
+button{
+    border: none;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    width: 255px;
+    height: 56px;
+    flex-shrink: 0;
+    background: #363740;
+}
+
+#button{
+    display: flex;
+    flex-direction: row;
+}
+.botrequestbox{  
+    margin-top: -23px;
+}
+
+.botrequest{
+    width: 104px;
+    height: 24px;
+    margin-top: 19px;
+    margin-left: 20px;
+}
+
+.botrequesticon{
+    width: 21px;
+    height: 21px;
+    flex-shrink: 0;
+    border-radius: 44px;
+    margin-top: 19px;
+    margin-left: 33px;
+}
+
+.bookicon{
+    width: 17px;
+    height: 17px;
+    flex-shrink: 0;
+    margin-top: 20px;
+    margin-left: 32px;
+}
+
+.books{  
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 50px;
+    height: 24px;
+}
+
+.usericon{
+    width: 17px;
+    height: 17px;
+    flex-shrink: 0;
+    margin-top: 20px;
+    margin-left: 32px;
+}
+
+.users{
+    margin-top: 20px;
+    margin-left: 35px;
+    width: 24px;
+    height: 24px;
+}
+
+.checkicon{
+    width: 17px;
+    height: 17px;
+    flex-shrink: 0;
+    margin-top: 20px;
+    margin-left: 32px;
+}
+
+.checkinout{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 114px;
+    height: 24px;
+}
+
+.settingbox{
+    width: 255px;
+    height: 56px;
+    flex-shrink: 0;
+}
+
+.settingicon{
+    width: 17px;
+    height: 17px;
+    flex-shrink: 0;
+    margin-top: 20px;
+    margin-left: 32px;
+}
+
+.settings{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 69px;
+    height: 24px;
+}
+
+.logoutbox{
+    width: 115px;
+    height: 35px;
+    margin-top: 522px;
+    margin-bottom: 15px;
+    margin-left: 43px;
+
+}
+
+.logouticon{
+    width: 40px;
+    height: 35px;
+    flex-shrink: 0;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.logout{
+    width: 72px;
+    height: 26px;
+    flex-shrink: 0;
+    color: #F00;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    margin-top: 5px;
+    margin-left: 0px;
+}

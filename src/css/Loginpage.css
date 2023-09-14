@@ -1,0 +1,97 @@
+.loginpage{
+    width: 1512px;
+    height: 982px;
+    background:#fff;
+    display: flex;
+    flex-direction: row;
+}
+
+.loginimage{
+    width: 756px;
+    height: 982px;
+    flex-shrink: 0;
+}
+
+.loginform{  
+    width: 756px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.image{
+    width: 232px;
+    height: 145px;  
+    padding-top: 270px;
+}
+
+.admin{
+    color: #000;
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    padding-top: 18px;   
+}
+
+.form{
+    
+    display:flex;
+    flex-direction: column;
+    
+}
+
+.username{
+    width: 328px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: #F8F8F8;
+    color: #D9D2D2;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    border: none;
+    margin:13px;
+}
+
+.password{
+    width: 328px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: #F8F8F8;
+    color: #D9D2D2;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    border: none ;
+    margin:13px;
+    
+}
+
+.submit{
+    width: 328px;
+height: 48px;
+flex-shrink: 0;
+border-radius: 12px;
+background: #5F1313;
+color: #FFF;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.2px;
+border: #5F1313;
+margin: 13px;
+}

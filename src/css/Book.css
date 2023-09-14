@@ -1,0 +1,37 @@
+.bars{
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+}
+
+.fullpage{
+    display: flex;
+    flex-direction: row;
+}
+
+.booksbox{
+    border-radius: 81px 0px 0px 81px;
+    background: #495658;
+}
+.newbook{
+    width: 228px;
+    height: 58px;
+    flex-shrink: 0;
+    background-color: #CACFB6;
+    border-radius: 12px;
+
+    color: #000;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    margin-top: 170px;
+    margin-bottom: 40px;
+    margin-left: 1004px;
+}
+
+
+
+
