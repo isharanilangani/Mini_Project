@@ -10,7 +10,7 @@ form {
   
   /* Style the left image container */
   .left-image {
-    height: 50vh;
+    height: 100vh;
     width: auto; /* Maintain aspect ratio */
     object-fit: cover; 
   }
